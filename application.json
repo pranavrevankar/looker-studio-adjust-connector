@@ -1,0 +1,19 @@
+{
+  "dataStudio": {
+    "name": "Adjust - Data Studio connector",
+    "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwYp6g7WPjLjKb6coXvLQtLwM_DDV72eIErT7qx63IYyCUvmk7&s",
+    "company": "Mad About Data",
+    "companyUrl": "https://pranavrevankar.com",
+    "addonUrl": "https://www.pranavrevankar.com/adjust-google-data-studio-connector",
+    "supportUrl": "https://www.pranavrevankar.com/contact",
+    "description": "Fetch the data from Adjust account (https://www.adjust.com/) into Google Data Studio. Get all the KPIs and events of your Adjust account into Google Data Studio.",
+    "sources": ["Adjust"],
+    "privacyPolicyUrl": "https://www.pranavrevankar.com/privacy-policy",
+    "termsOfServiceUrl": "https://www.pranavrevankar.com/terms-of-service",
+    "feeType": ["FREE"],
+    "authType": ["USER_TOKEN"]   
+  },
+  "urlFetchWhitelist": [
+    "https://api.adjust.com/"
+  ]
+}
